@@ -1,0 +1,51 @@
+10.25.10.111 xinsight6.cloud xinsight6
+10.25.10.112 xinsight7.cloud xinsight7
+10.25.10.113 xinsight8.cloud xinsight8
+10.25.10.114 xinsight9.cloud xinsight9
+10.25.10.115 xinsight10.cloud xinsight10
+
+10.25.10.145 bdt01.cloud bdt01
+10.25.10.146 bdt02.cloud bdt02
+10.25.10.147 bdt03.cloud bdt03
+10.25.10.148 bdt04.cloud bdt04
+
+10.25.10.77 si01
+10.25.10.80 si02
+10.25.10.78 si03
+10.25.10.81 si04
+
+10.70.8.179 bgcdc01     
+10.70.8.181 bgcdc02
+10.70.8.182 bgcdc03
+10.70.8.183 bgcdc04
+10.70.8.184 bgcdc05
+10.70.8.185 bgcdc06
+10.70.8.186 bgcdc07
+
+# 10.70.52.50 bgcdc01     
+# 10.70.52.51 bgcdc02
+# 10.70.52.101 bgcdc03
+# 10.70.52.102 bgcdc04
+# 10.70.52.107 bgcdc05
+# 10.70.52.108 bgcdc06
+# 10.70.52.109 bgcdc07
+
+10.71.117.2 wgcdc01     
+10.71.117.3 wgcdc02
+10.71.117.4 wgcdc03
+10.71.117.8 wgcdc04
+10.71.117.15 wgcdc05
+10.71.117.17 wgcdc06
+
+10.71.17.50 whcdc01
+10.71.17.51 whcdc02
+10.71.17.52 whcdc03
+10.71.17.53 whcdc04
+10.71.17.54 whcdc05
+10.71.17.55 whcdc06
+10.71.17.56 whcdc07
+
+10.70.61.151 DVVMJT0058
+10.70.61.152 DVVMJT0059
+10.80.66.14 DVVMBE0011
+10.80.66.19 DVVMBE0086
